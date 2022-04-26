@@ -69,4 +69,7 @@ TC5:LoginTest
     Log    Test Completed    
     Log    This test was executed by %{username} on %{os}    
 
+TC6:PrintTest
+    Log    This just commit change.
+    
     
